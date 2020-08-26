@@ -1,0 +1,7 @@
+﻿  Visiliza.cpp
+D:\Project1\Project115\Project115\main.h(45,20): warning C4018: '<': signed/unsigned mismatch
+D:\Project1\Project115\Project115\Visiliza.cpp(163,8): warning C4101: 'chr': unreferenced local variable
+D:\Project1\Project115\Project115\Visiliza.cpp(237,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Project1\Project115\Project115\main.h(28): warning C4715: 'High_Reg1': not all control paths return a value
+D:\Project1\Project115\Project115\main.h(40): warning C4715: 'Low_Reg1': not all control paths return a value
+  Project115.vcxproj -> D:\Project1\Project115\Debug\Project115.exe
